@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oselu Fortunatus</h1>
-<h3 align="center">A passionate Smart contract developer from Nigeria</h3>
+<h3 align="center">A passionate Smart contract developer</h3>
 
 - 📫 How to reach me **oselufortunatus@gmail.com**
 
