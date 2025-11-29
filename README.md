@@ -8,6 +8,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=osfoce)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=osfoce&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
