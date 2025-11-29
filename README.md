@@ -7,14 +7,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://github.com/osfoce/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osfoce" />
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/osfoce/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=osfoce&theme=onedark" />
