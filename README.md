@@ -10,7 +10,6 @@
 ### 🧩 About Me
 
 - 👨‍💻 Building secure, gas-optimized smart contracts for DeFi protocols
-- 🔭 Currently working on **MiniLend** — a lightweight decentralized lending protocol
 - 🌱 Deep diving into **EVM internals, cross-chain messaging, and zero-knowledge proofs**
 - 💬 Ask me about **Solidity, Foundry, DeFi design patterns, and smart contract security**
 - 📫 Reach me at **oselufortunatus@gmail.com**
@@ -76,7 +75,20 @@
 ### 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osfoce&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osfoce&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osfoce&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osfoce&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osfoce&theme=react-dark&bg_color=0d1117&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osfoce&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
